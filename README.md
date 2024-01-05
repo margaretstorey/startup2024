@@ -14,7 +14,7 @@ See [course requirements](requirements.md), [student testimonials](testimonials.
 
 :warning: **Classes will be on Fridays 1:30-4:20.
 We will meet at CLE A329. 
-Test Test Test 
+
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [**resources section**](resources).*
 
 |     | Date         | Meeting agenda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
