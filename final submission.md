@@ -1,6 +1,6 @@
-# Final Submission
+# Final Submission (to be updated for 2024)
 
-By the due date ( 23:59), please have ready: 
+By the due date April 10, 2024 (23:59), please have ready: 
 
 - In your GitHub readme, post a link to a 5 minute **video** demonstrating the application.
    - Try to show all the main features of your application and explain them in the video using your scenarios and personas.
