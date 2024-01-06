@@ -8,7 +8,7 @@ This course aims to give students the tools and skills to rapidly develop and tr
 
 Projects will include designing and developing a live web or mobile system. Each team will also maintain a web page with project documentation and design documents.
 
-See [course requirements](requirements.md), [student testimonials](testimonials.md), and great resources at [prior StartUp courses at UVic and Tel Aviv](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters).
+See [course requirements](requirements.md), [student testimonials](testimonials.md), and great resources at [prior StartUp courses at UVic and Tel Aviv](past%20semesters).
 
 ---
 
