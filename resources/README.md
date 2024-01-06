@@ -1,9 +1,3 @@
-# Course Slides
-
-### Meeting 1
-
-To be posted.
-
 
 # Glossary of terms or Startup Jargon
 
