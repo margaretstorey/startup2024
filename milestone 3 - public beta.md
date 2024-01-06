@@ -1,6 +1,6 @@
-# Milestone 3 - Final Presentation (Public Beta)
+# Milestone 3 - Final Presentation (Public Beta) (to be updated for 2024)
 
-We are happy to invite you to present your third milestone at **ECS 104**, April 1st 2pm-5pm
+Due April 5, 2024.  Location may be changed.
   
 In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A and questions by mentors, guests and other students.  At 5pm, we will have a small party to celebrate your accomplishments. 
 
