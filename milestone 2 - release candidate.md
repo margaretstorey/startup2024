@@ -1,5 +1,5 @@
 
-# Milestone 2 - Release Candidate (to be updated for 2024)
+# Milestone 2 - Release Candidate (draft check back later)
 
 For the second milestone (due on Friday, 08/03/2024) you are required to show progress based on the feedback you've received from the mentors about Milestone 1.
 
