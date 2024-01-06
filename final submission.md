@@ -1,4 +1,4 @@
-# Final Submission (to be updated for 2024)
+# Final Submission (draft - check back later)
 
 By the due date April 10, 2024 (23:59), please have ready: 
 
