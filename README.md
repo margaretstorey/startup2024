@@ -36,19 +36,19 @@ We will meet at CLE A329.
 
 <a name="mentoring-staff"></a>
 #### Mentoring Staff
-- [Rob Bennett, COO and Program Director, ViaTec](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca)
-- [Sam Mod, CEO and Co-Founder, Freshworks Studio](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca) 
-- [Brandon Wright, Founder and CEO, BRNKL](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca)
-- [Humaira Ahmed, Founder and CEO, Best Human (formerly Locelle)](https://www.linkedin.com/in/humaira-ahmed-besthuman/)
-- [Alessandra Maciel Paz Milani Uvic](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca), Course Staff
-- [Claudia Smith, Professor, School of Business, UVic ](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Guest Course Instructor
-- [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretstorey.com/), Course Instructor
+- [Rob Bennett](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca), COO and Program Director, ViaTec
+- [Sam Mod](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca), CEO and Co-Founder, Freshworks Studio
+- [Brandon Wright](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca), Founder and CEO, BRNKL
+- [Humaira Ahmed](https://www.linkedin.com/in/humaira-ahmed-besthuman/), Founder and CEO, Best Human (formerly Locelle)
+- - [Claudia Smith, Professor](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Guest Course Instructor, School of Business, UVic 
+- [Alessandra Maciel Paz Milani](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca), Course Staff, UVic
+- [Margaret-Anne Storey](https://margaretstorey.com/), Course Instructor, Professor, Computer Science, UVic
 
 **Additional Presenters:**
-- [Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
-- [Juan Orrego, Co-Founder and CEO, Cuboh](https://www.cuboh.com/)
-- [Nicole Smith, Founder and CEO, Flytographer](https://www.flytographer.com/)
-- [Aislinn Sirk, Research Partnerships and Innovation Manager, UVic](https://www.linkedin.com/in/aislinn-sirk-1728b119)
+- [Steven Myhill-Jones](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca), Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation
+- [Juan Orrego](https://www.cuboh.com/), Co-Founder and CEO, Cuboh
+- [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
+- [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters):**
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
