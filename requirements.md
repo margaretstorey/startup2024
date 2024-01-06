@@ -9,7 +9,8 @@ Prerequisites:
 
 General Requirements:
 
-- Attendance in all course meetings is **mandatory**. If you have to miss a meeting, please let us know ahead of time. 
+- Attendance in all course meetings is **mandatory**. If you have to miss a meeting, please let us know ahead of time. You may be able to attend by zoom if you have covid. Missing a class in person will require additional course work (due date to be arranged).
+- Students may be assigned a different grade to their team grade.  Individual grades will be based on attestations and evaluations by team members. 
 
 Each team is required to do the following:
 
