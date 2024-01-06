@@ -9,8 +9,8 @@ Prerequisites:
 
 General Requirements:
 
-- Attendance in all course meetings is **mandatory**. If you have to miss a meeting, please let us know ahead of time. You may be able to attend by zoom if you have covid. Missing a class in person will require additional course work (due date to be arranged).
-- Students may be assigned a different grade to their team grade.  Individual grades will be based on attestations and evaluations by team members. 
+- Attendance in all course meetings is **mandatory**. If you have to miss one meeting, please let us know ahead of time. You may be able to attend by zoom if you have covid but only if we know in advance. Missing a class or not attending in person will require *additional course work* (assignment and due date to be arranged). Missing multiple course lectures (even due to illness) may mean you have to drop the course as attending the lectures is a requirement to complete the course work. 
+- Students may be assigned a different grade to their team project grade.  Individual grades will be based on attestations of individual contributions and evaluations by team members of other members. 
 
 Each team is required to do the following:
 
