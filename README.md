@@ -1,7 +1,7 @@
 ![Alt text](images/logo.png)
 
 ##### [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
-##### [SENG 480A]([https://heat.csc.uvic.ca/coview/outline/2024/Spring/CSC/480A](https://heat.csc.uvic.ca/coview/course/2024011/SENG480A) 2024, Spring Semester
+##### [SENG 480A](https://heat.csc.uvic.ca/coview/course/2024011/SENG480A) Spring, 2024
 <br>
 
 This course aims to give students the tools and skills to rapidly develop and transform innovative ideas (of their own choosing) into working projects utilizing advanced mobile, social, cloud, and web technologies. In particular, students will experience the style of development activity that is common in a new startup company. The project based course will be augmented by a series of lectures to accelerate learning with new web technologies, product design, agile development practices, user interface design, and project management. During the term, students will work in teams of 5 students. Each team will be closely mentored by several staff members (including the instructors and one or more members from industry). Students will gain valuable technical skills and experience working in small teams, while facing real-world challenges that include a tight schedule, hard deadlines, and self directed learning.
