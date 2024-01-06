@@ -40,7 +40,7 @@ We will meet at CLE A329.
 - [Sam Mod](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca), CEO and Co-Founder, Freshworks Studio
 - [Brandon Wright](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca), Founder and CEO, BRNKL
 - [Humaira Ahmed](https://www.linkedin.com/in/humaira-ahmed-besthuman/), Founder and CEO, Best Human (formerly Locelle)
-- - [Claudia Smith, Professor](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Guest Course Instructor, School of Business, UVic 
+- [Claudia Smith, Professor](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Guest Course Instructor, School of Business, UVic 
 - [Alessandra Maciel Paz Milani](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca), Course Staff, UVic
 - [Margaret-Anne Storey](https://margaretstorey.com/), Course Instructor, Professor, Computer Science, UVic
 
