@@ -1,7 +1,6 @@
 # Teams and Projects
 
-### XXX ([view on GitHub]())  
-![Logo]()  
+### XXX ([view on GitHub]())   
 **Website:** []()  
 **Description:**   
 **Members**:
