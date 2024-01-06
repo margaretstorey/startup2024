@@ -12,7 +12,7 @@ See [course requirements](requirements.md), [student testimonials](testimonials.
 
 ---
 
-:warning: **Classes will be on Fridays 1:30-4:20.
+:warning: Classes will be on Fridays 1:30-4:20.
 We will meet at CLE A329. 
 
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [resources section](resources).*
@@ -45,7 +45,7 @@ We will meet at CLE A329.
 - [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretstorey.com/), Course Instructor
 
 **Additional Presenters:**
--[Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
+- [Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
 - [Juan Orrego, Co-Founder and CEO, Cuboh](https://www.cuboh.com/)
 - [Nicole Smith, Founder and CEO, Flytographer](https://www.flytographer.com/)
 - [Aislinn Sirk, Research Partnerships and Innovation Manager, UVic](https://www.linkedin.com/in/aislinn-sirk-1728b119)
@@ -54,30 +54,31 @@ We will meet at CLE A329.
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
 - [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
 - [Ian Bull](http://ianbull.com/)
+- [Brad van Vugt](https://www.linkedin.com/in/bradvanvugt/), Co Founder & CEO, Battlesnake
 - [Gregory Schier](http://schier.co/)
 - [Eirini Kalliamvakou](https://www.linkedin.com/in/eirini-kalliamvakou-1016865/?originalSubdomain=ca)
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 - [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/)
 - [Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman and CEO Daily Journal ](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
+- [Sean Falconer](https://www.linkedin.com/in/seanf/), Head of Developer Relations, [Skyflow](https://www.skyflow.com/)
+- Matthew Smith and Nick Addison, [Mazumago](https://www.mazumago.com/about)
+- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/?originalSubdomain=ca), Tutela
  
-  - 
-|---<a name="mentoring-staff"></a>#### Mentoring Staff- [R Bennett, COO and Program Director, ViaTec](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca)- [Steve Graham, Consulting CTO and rchitect](https://www.linkedin.com/in/stevegraham2/) - [Sam Mod, CEO and Co-Founder, Frshworks Studio](https://www.linkedin.com/in/samarthmod/?orignalSubdomain=ca) - [Steven MyhillJones, Entrepreneur/Invetor and Founder of Lattitude Geographics](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)- [Brandon Wright, Founder and CEO, BRNKL](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca)- [Alessandra Maciel Paz Milani, PhD Student, UVic and Course TA](https://www.linkedin.com/in/alessandrapm/?originalSubdomain=ca)- [Claudia Smith, Professor, School of Business, UVic ](https://www.linkedin.com/in/dr-claudia-smith-29b318a/?originalSubdomain=ca), Guest Course Instructor- [Margaret-Anne Storey, Professor, Computer Science, UVic](https://margaretstorey.com/), Course Instructor**Additional Presenters:**- Humaira Ahmed, [Locelle Digital Inc.](https://locelle.com/) - [Sean Falconer](https://www.linkedin.com/in/seanf/), Head of Developer Relations, [Skyflow](https://www.skyflow.com/)- Juan Orrego, [Cuboh](https://www.cuboh.com/)- [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic- Matthew Smith and Nick Addison, [Mazumago](https://www.mazumago.com/about)- Nicole Smith, [Flytographer](https://www.flytographer.com/)- [Brad van Vugt](https://www.linkedin.com/in/bradvanvugt/), Co Founder & CEO, Battlesnake- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/?originalSubdomain=ca), Tutela**Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2022/tree/main/past%20semesters):**- [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)- [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)- [Ian Bull](http://ianbull.com/)- [Gregory Schier](http://schier.co/)- [Eirini Kalliamvakou](https://www.linkedin.com/in/eirini-kalliamvakou-1016865/?originalSubdomain=ca)
-- [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 
 <a name="teams-and-projects"></a>
 #### Teams and Projects
 
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| **Decidr** | Carlson, Davis; Zlonicky, Joe | Because democracy is hard | [Github link](https://github.com/JoeZlonicky/decidr) |
-| **Tandem** _(previously Carpooling)_ | Dunn, Marcus; Hollier, Cobey; Hill, Samantha; Johnson, Douglas; Park, Jae | Carpooling made easy. Carpooling made social. | [Github link](https://github.com/CobeyH/SENG-480A) |
-| **DevXP** _(previously DevEx)_ | Enns, Keanu; Korsch, Sabrina; Petrone, Chris; Robinson, Derek; Wilkes, Brennan | Empowering developers to create enterprise-quality cloud infrastructure in minutes | [Github link](https://github.com/devxp-ca/devxp) |
-| **SheTrains** | Cusi, Tristan; Lyne, Shaun; Chiang, Gordon; Newcombe, Dave; Van Brummelen, Matthew | Learn. Predict. Achieve. | _private repository, request group members access_ |
-| **Slacker** _(previously SlackLine)_ | Kosman, Sam; Micetich, Brendan; Bonnici, Karl; Borinaga, Dianna; Huang, Yiming | Connecting slackliners one line at a time| [Github link](https://github.com/CSC485A-Slacker/slacker) |
-| **staSHARE** | Luong, Nam; Nguyen, Huy; Donaldson, Isaac; Felea-Motet, Mark; Smith, Kersten | Stash it, Share, it, Search it. | [Github link](https://github.com/duchuy1999/csc485a-project) |
+| TBD | TBD | TBD | TBD |
+| TBD | TBD | TBD | TBD |
+| TBD | TBD | TBD | TBD |
+| TBD | TBD | TBD | TBD |
+| TBD | TBD | TBD | TBD |
+| TBD | TBD | TBD | TBD |
 <br>
 
-**Office Hour:** By appointment and by zoom. Friday 11:00am-12:00pm over zoom (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
+**Office Hour:** By appointment and Thursday 1:00pm-2:30pm ECS 564 (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
 
 **Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
@@ -86,7 +87,7 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
 
-## Intellectual Property Ownership
+## Intellectual Property Ownership (to be updated for 2024)
 Students are asked to consult with the [project participant agreement](resources/Project_Participant_Agreement_c.pdf). UVic will agree to waive its
 interest in such IP under the following conditions:
 
