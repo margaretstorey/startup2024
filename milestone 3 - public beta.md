@@ -1,4 +1,4 @@
-# Milestone 3 - Final Presentation (Public Beta) (to be updated for 2024)
+# Milestone 3 - Final Presentation (Public Beta) (draft - check back later)
 
 Due April 5, 2024.  Location may be changed.
   
