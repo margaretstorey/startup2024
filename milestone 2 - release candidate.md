@@ -22,7 +22,7 @@ After your presentation, we will open for a 12-15 minutes Q&A session.
 
 You should also be prepared to talk about your development process, in case you are asked: what is your plan for the next Milestone? how long do you expect the work would take? how did you split the work? what was easy? what was difficult? what risks lay ahead? Have some prepared slides on these points that we can refer to but you do not need to present them.
 
-Please send us a copy of your presentation/slides (or link) via message on your group Slack channel until 1 pm on March 11.
+Please send us a copy of your presentation/slides (or link) via message on your group Slack channel until noon on March 8th, 2024.
 
 
 ### Project Hosting (GitHub)
