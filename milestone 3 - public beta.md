@@ -24,7 +24,6 @@ Some advice:
 How to "pitch" resources: 
 -  You can do this without a deck or use "pitch deck". Staying within time is critical. But be clear: who is your pitch aimed at? An investor, a customer? 
 -  [How to build a great pitch](https://learn.marsdd.com/article/how-to-build-a-great-pitch/) 
-- [How to pitch at YCombinator](https://www.ycombinator.com/library/22-pitch) Note this is aimed more at an investor but has good advice, and who knows maybe someone that sees this may want to invest in you!
 - [How to pitch your Startup](https://www.youtube.com/watch?v=17XZGUX_9iM) Note this is also aimed at investors. 
 - [StartupFest pitch competition winners](https://www.youtube.com/watch?v=X1M2LcL5Oo4) This also shows questions that are asked! 
 - [How to Pitch One Pager](https://github.com/margaretstorey/startup2022/blob/main/How%20to%20Pitch%20-%201%20page%20summary%20reading1.pdf)
