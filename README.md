@@ -13,7 +13,7 @@ See [course requirements](requirements.md), [student testimonials](testimonials.
 ---
 
 ⚠️ Classes will be on Fridays 1:30-4:20.
-We will meet at CLE A329. 
+We will meet at [CLE](https://www.uvic.ca/search/maps-buildings/buildings/clearihue.php) A329. 
 
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [resources section](resources).*
 
