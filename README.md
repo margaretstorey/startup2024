@@ -45,6 +45,7 @@ We will meet at [CLE](https://www.uvic.ca/search/maps-buildings/buildings/cleari
 - [Margaret-Anne Storey](https://margaretstorey.com/), Course Instructor, Professor, Computer Science, UVic
 
 **Additional Presenters:**
+- [Eric Jordan](https://www.linkedin.com/in/eric-jordan-97347111/), CEO Codename Entertainment
 - [Steven Myhill-Jones](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca), Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation
 - [Juan Orrego](https://www.cuboh.com/), Co-Founder and CEO, Cuboh
 - [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
