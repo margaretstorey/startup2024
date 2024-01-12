@@ -13,7 +13,8 @@ See [course requirements](requirements.md), [student testimonials](testimonials.
 ---
 
 ⚠️ Classes will be on Fridays 1:30-4:20.
-We will meet at [CLE](https://www.uvic.ca/search/maps-buildings/buildings/clearihue.php) A329. 
+We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclaurin.php) D283 
+⚠️ (Note change of room from original posting. 
 
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [resources section](resources).*
 
@@ -62,10 +63,8 @@ We will meet at [CLE](https://www.uvic.ca/search/maps-buildings/buildings/cleari
 - [Eirini Kalliamvakou](https://www.linkedin.com/in/eirini-kalliamvakou-1016865/?originalSubdomain=ca)
 - [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 - [Steve Graham, Consulting CTO and Architect](https://www.linkedin.com/in/stevegraham2/)
-- [Steven Myhill-Jones, Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman and CEO Daily Journal ](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca)
 - [Sean Falconer](https://www.linkedin.com/in/seanf/), Head of Developer Relations, [Skyflow](https://www.skyflow.com/)
 - Matthew Smith and Nick Addison, [Mazumago](https://www.mazumago.com/about)
-- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/?originalSubdomain=ca), Tutela
  
 
 <a name="teams-and-projects"></a>
