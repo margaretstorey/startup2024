@@ -28,7 +28,7 @@ We will meet at [CLE](https://www.uvic.ca/search/maps-buildings/buildings/cleari
 |   7 | 23 Feb, 2024 | ⚠️ Reading Break - No Course Meeting                                                                                                                                                                               |
 |   8 | 1 Mar, 2024  | 1:30-1:45 Weloming and Panel setup <br> 1:45-3:15 🔈 Panel with Startup founders: <br> Nicole Smith, Founder & CEO Flytographer <br> Juan Orrego, Founder & CEO, Cuboh <br> TBD <br> 3:15-3:30  ☕ Wrap up the conversation with Panelists + Break <br>3:30-4:20 👥 Group Work + Open space to talk with Teaching Team |
 |   9 | 8 Mar, 2024 | 🚩 [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate  <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  Project 1 and Mentors' Feedback <br> 2:00-2:25  👥 Project 2 and Mentors' Feedback <br> 2:25-2:50  👥  Project 3 and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  Project 4 and Mentors' Feedback <br> 3:25-3:50 👥  Project 5 and Mentors' Feedback <br> 3:25-4:15  👥  Project 6 and Mentors' Feedback <br> |                                                                                                      
-|  10 | 15 Mar, 2024 | Schedule for this lecture to be announced.  |                                            
+|  10 | 15 Mar, 2024 | Founder Story, David Yarish, VP of Mobile Solutions and Co-Founder of Tutela Technologies <br> Schedule for the rest of this lecture to be announced.  |                                            
 |  11 | 22 Mar, 2024 | 1:30-2:10 🔈 Intellectual Property, Aislinn Sirk (UVic) <br> 2:10-4:20 👥 Group meetings with Course Staff (and time to work on projects) |
 |  12 | 29 Mar, 2024 |  ⚠️ No Course Meeting, Good Friday   |
 |  13 | 5 Apr, 2024  | 🚩 [Milesone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  Project 1 and Mentors' Feedback <br> 2:00-2:25  👥 Project 2 and Mentors' Feedback <br> 2:25-2:50  👥  Project 3 and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  Project 4 and Mentors' Feedback <br> 3:25-3:50 👥  Project 5 and Mentors' Feedback <br> 3:25-4:15  👥  Project 6 and Mentors' Feedback <br> |
@@ -48,8 +48,10 @@ We will meet at [CLE](https://www.uvic.ca/search/maps-buildings/buildings/cleari
 - [Eric Jordan](https://www.linkedin.com/in/eric-jordan-97347111/), CEO Codename Entertainment
 - [Steven Myhill-Jones](https://www.linkedin.com/in/steven-myhill-jones-6857607/?originalSubdomain=ca), Entrepreneur/Investor and Founder of Lattitude Geographics, Chairman/CEO Daily Journal Corporation
 - [Juan Orrego](https://www.cuboh.com/), Co-Founder and CEO, Cuboh
-- [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
 - [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
+- [Matthew Smith](https://www.linkedin.com/in/matthew-smith250/), CEO & Co-Founder at Truss
+- [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
+- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/), VP of Mobile Solutions and Co-Founder of Tutela Technologies
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters):**
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
