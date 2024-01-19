@@ -51,6 +51,8 @@
 ---
 
 ### Recommended Watching
+- [How to Build An MVP | Startup School](https://youtu.be/QRZ_l7cVzzU?si=x1JJfB-4HNu2XMP3)
+- [How to Get and Evaluate Startup Ideas | Startup School](https://www.youtube.com/watch?v=Th8JoIan4dg) 
 - How great leaders inspire action, Simon Sinek [https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en]
 - How to Start a Startup course at Stanford by Y-Combinator [[link](http://startupclass.samaltman.com/)]
 - Office Hours with Kevin & Qasar [[YouTube](https://www.youtube.com/watch?v=9cWPxuxqdGQ)]
