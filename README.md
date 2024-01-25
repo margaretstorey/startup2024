@@ -18,6 +18,8 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 
 <br> *Please note this is a tentative schedule. The slides and other materials will be available in the [resources section](resources).*
 
+### Schedule
+
 |     | Date          | Meeting agenda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |----:|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   1 | 12 Jan, 2024  | 1:30-2:15 🔈 Course Overview and Mentor Introductions, Dr. Margaret-Anne Storey  <br> 2:15-2:30 🔈 Some Pointers about Intellectual Property for Projects, Aislinn Sirk (UVic) <br> 2:30-2:50 ☕ Break <br> 2:50-3:30 🔈 Founder's Story, Humaira Ahmed (Best Human) <br> 3:30-4:10 🔈 Founder's Story, Brandon Wright (BRNKL)                                                                                                                                                                                                                         |
