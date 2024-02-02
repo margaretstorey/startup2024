@@ -39,23 +39,23 @@ Please provide on your main product page (GitHub repository) a link to your live
 
 ### 4. Milestone 1 Presentation (Proof of Concept)
 
-Prepare a 10 minute presentation:
+Prepare a **10-minute** presentation:
 
-- Start with a live demo that shows what you have accomplished so far (5 minutes).
+- [5 minutes] Start with a live demo that shows what you have accomplished so far.
     - Focus on the application's main use-case(s) that highlight its novelty and contribution and refer to the personas you developed.
     - If a live demo is impossible, show a demo video (this may be the case if you recently pivoted).
     - Make sure you have a backup for the demo (either video or screenshots).
-- Continue with a short presentation of: 
+- [5 minutes] Continue with a short presentation of: 
     - Your feature list (2 minutes: what is done? which features are expected? how long do you expect the work will take?) 
     - Your road map (1 minute: what to expect in the future milestones? how does it differ from the original estimation?)
     - Your progress and group reflection what you have learned (2 minutes: how did you split the work among the group, who did what? what was easy? what was difficult? why? See [here for some ideas](https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates) for your group reflection) 
 
 
-**Also, please send us via private message on Slack: the presentation, a summary document of the above (progress, feature list, road map), group reflection, and a link to your GitHub repository.**
+ ⚠️ **Also, please send us via message on Slack (your private group channel): the presentation, a summary document of the above (progress, feature list, road map), group reflection, and a link to your GitHub repository.**
 
 **Important note:** Full grading for the milestone (15 points) will be given for teams that successfully:
 
-1. Focus on the primary use case and take into account our feedback (feedback summary will be sent to you via email or Slack message).
+1. Focus on the primary use case and take into account our feedback (feedback summary will be sent to you via Slack message; access to each group's doc restricted to team members and mentors).
 2. Follow the project plan while adapting dynamically and documentation of your project and your progress.
 3. Continuously work throughout the semester.
 4. Demonstrate an interesting, self contained, primary use case of your application that has value.
