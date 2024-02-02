@@ -8,7 +8,7 @@ For the first milestone (due on 16/02/2024) you are required to provide a proof 
 Host your project at [GitHub](https://github.com/repositories/new), this will serve as your project home page:
 
 - All source code should be pushed to the repository you created.
-- Documentation (usage instructions, screenshots, etc...) should be put in their appropriate place (README.md / Wiki tab / Project Home).
+- Documentation (usage instructions, screenshots, etc...) should be put in their appropriate place (README.md / Wiki tab / Project Home). Additional details on project documentation available on this [doc](https://docs.google.com/document/d/1xppHNvDtQkChSqaZQI7FCG5J9GSH-iyi/edit?usp=sharing&ouid=100275977608446609845&rtpof=true&sd=true).
 - Features, bugs, and the project road-map should be administered using the **Issues** and the **Projects** tabs in GitHub.
 - License: choose the one that suits you best ([this](http://choosealicense.com/) might help), if you can't decide choose Apache V2.
 
