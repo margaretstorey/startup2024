@@ -44,7 +44,14 @@ Please provide on your main product page (GitHub repository) a link to your live
 
 Please provide a description of one or more personas, as well as one or more scenarios to motivate and illustrate the feature(s) in your MVP. 
 
-### 5. Milestone 1 Presentation (Proof of Concept)
+### 5. Deliverables (to submit ***before*** noon on Feb 16th)
+
+Please send us via message on Slack on our private group channel with you: 
+- a link to your presentation (checking the requirements above),
+- a link to your GitHub repository and other documentation, and 
+- individual summaries of the work done by each team member (e.g., a link to your log/journal or a one page summary of your contributions).
+
+### 6. Milestone 1 Presentation (Proof of Concept)
 
 Prepare a **10-minute** presentation:
 
@@ -56,13 +63,7 @@ Prepare a **10-minute** presentation:
     - Your feature list (2 minutes: what is done? which features are expected? how long do you expect the work will take?) 
     - Your road map (1 minute: what to expect in the future milestones? how does it differ from the original estimation?)
     - Your progress and group reflection what you have learned (2 minutes: how did you split the work among the group, who did what? what was easy? what was difficult? why? See [here for some ideas](https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates) for your group reflection)
- 
-### 6. Deliverables (to submit post presentation)
 
-Please send us via message on Slack on our private group channel: 
-- the presentation (check requirements above),
-- a link to your GitHub repository and other documentation, and include
-- individual summaries of work done by each team member (e.g., a link to your log/journal or a one page summary of your contributions).
 
  ### 7. Expectations
 
