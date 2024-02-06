@@ -68,6 +68,7 @@ Prepare a **10-minute** presentation:
 4. Demonstrate an interesting, self contained, primary use case of your application that has value.
 5. Give a good presentation (simple, clear, focused, time-framed, sincere).
 6. Reflect on your progress and feedback.
+7. Each team member should provide a summary of their contributions to the work done so far. 
 
 If you have any questions please do not wait for the milestone meeting, please reach out to us on Slack.
 
