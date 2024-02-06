@@ -60,11 +60,9 @@ Prepare a **10-minute** presentation:
 ### 6. Deliverables (to submit post presentation)
 
 Please send us via message on Slack on our private group channel: 
-- the presentation,
-- a summary document of the above (progress, feature list, road map),
-- group reflection,
-- individual summary of work done by each team member (e.g., a link to your log/journal or a one page summary of your contributions), 
-- and a link to your GitHub repository.
+- the presentation (check requirements above),
+- a link to your GitHub repository and other documentation, and include
+- individual summaries of work done by each team member (e.g., a link to your log/journal or a one page summary of your contributions).
 
  ### 7. Expectations
 
