@@ -10,6 +10,7 @@ Host your project at [GitHub](https://github.com/repositories/new), this will se
 - All source code should be pushed to the repository you created.
 - Documentation (usage instructions, screenshots, etc...) should be put in their appropriate place (README.md / Wiki tab / Project Home). Additional details on project documentation available on this [doc](https://docs.google.com/document/d/1xppHNvDtQkChSqaZQI7FCG5J9GSH-iyi/edit?usp=sharing&ouid=100275977608446609845&rtpof=true&sd=true).
 - Features, bugs, and the project road-map should be administered using the **Issues** and the **Projects** tabs in GitHub.
+- If you wish to use a different issue tracker, please make sure you let us know (via Slack) and also clearly document this on your GitHub page and add links to other tools you are using to track your work. 
 - License: choose the one that suits you best ([this](http://choosealicense.com/) might help), if you can't decide choose Apache V2.
 
 ### 2. Feature List
@@ -32,6 +33,8 @@ Use the standard issue tracker (GitHub Issues), as that will assist you on decid
 We are interested only in the short list. You may also have another more detailed list for your own use.
 
 It is important to try and estimate the complexity of the various feature as soon as possible so we'd be able to estimate what could be done till the end of the semester. In order to accomplish that you should add *time estimations* for all your features in the feature list and every time you work on a feature check how long it *actually* took. After doing so for several features you'll improve your ability to estimate a given task.
+
+Note: If you want to use an issue tracker other than GitHub Issues, please ensure you have clarified this (see point 1 above). 
 
 ### 3. Product Page
 
