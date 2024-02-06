@@ -37,12 +37,16 @@ It is important to try and estimate the complexity of the various feature as soo
 
 Please provide on your main product page (GitHub repository) a link to your live application or app (web-site / download URL). Although it may not be fully functioning as a MVP until Milestone 2, it is important to be able to know what the *real* status of the final product is at any given point. 
 
-### 4. Milestone 1 Presentation (Proof of Concept)
+### 4. Persona and Scenario
+
+Please provide a description of one or more personas, as well as one or more scenarios to motivate and illustrate the feature(s) in your MVP. 
+
+### 5. Milestone 1 Presentation (Proof of Concept)
 
 Prepare a **10-minute** presentation:
 
 - [5 minutes] Start with a live demo that shows what you have accomplished so far.
-    - Focus on the application's main use-case(s) that highlight its novelty and contribution and refer to the personas you developed.
+    - Focus on the application's main use-case(s) that highlight its novelty and contribution and refer to the persona(s) and scenario(s) you developed.
     - If a live demo is impossible, show a demo video (this may be the case if you recently pivoted).
     - Make sure you have a backup for the demo (either video or screenshots).
 - [5 minutes] Continue with a short presentation of: 
