@@ -10,7 +10,7 @@
 - The Art of the Start by Guy Kawasaki (https://guykawasaki.com/books/the-art-of-the-start/) 
 - Crossing the Chasm [https://www.harpercollins.com/products/crossing-the-chasm-3rd-edition-geoffrey-a-moore?variant=32130444066850] 
 - Innovator's Dilemma [https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma] 
-- - The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
+- The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns)), [Lean Startup Website](https://theleanstartup.com/) 
 - Startup Playbook by Sam Altman ([read online](http://playbook.samaltman.com/), also [available in Spanish](https://platzi.com/startup-playbook/))
 - Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
 - Getting Real by 37signals ([PDF](https://basecamp.com/about/books/Getting%20Real.pdf))
@@ -33,6 +33,14 @@
 
 #### Life Lessons
 - Who Moved My Cheese by Spencer Johnson ([Amazon](http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463))
+- [Range](https://davidepstein.com/the-range/) 
+- Difficult Conversations 
+- [Getting to yes](https://en.wikipedia.org/wiki/Getting_to_Yes) 
+
+#### Marketing and Sales and Pitches
+- [Building a Story Brand](https://www.amazon.ca/s?k=building+a+story+brand&hvadid=671372770478&hvdev=c&hvlocphy=9001467&hvnetw=g&hvqmt=e&hvrand=11312231402981577527&hvtargid=kwd-313342963332&hydadcr=22457_13497860&tag=googcana-20&ref=pd_sl_3u5enrllop_e)
+- [Pitch Anything](https://www.amazon.ca/Pitch-Anything-Innovative-Presenting-Persuading/dp/0071752854/ref=sr_1_1?crid=3ORPS2NKUI14W&keywords=pitch+anything&qid=1707586076&sprefix=pitch+anythin%2Caps%2C160&sr=8-1)
+- [Sales Bible](https://www.amazon.ca/Sales-Bible-New-Ultimate-Resource/dp/1118985818/ref=sr_1_1?crid=2J1Y3BISUJKIH&keywords=sales+bible&qid=1707586096&sprefix=sales+bible%2Caps%2C167&sr=8-1)
 
 ---
 
