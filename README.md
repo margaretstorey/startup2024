@@ -26,8 +26,8 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 |   2 | 19 Jan, 2024  | 1:30-2:20 🔈 Design Thinking, Experience Design, Visual Design and Designing with Users, Dr. Margaret-Anne Storey (UVic) <br> 2:20-3:10 🔈 Ideation and Creativity, Dr. Claudia Smith (UVic) -📝*Students will need a pen and paper* <br> 3:10-3:20 ☕ Break <br> 3:20-4:20 👥  Idea Pitch (Guests and Students), Storming Ideas, Forming Groups                                                                                                                                                                                                                                                                                    |
 |   3 | 26 Jan, 2024  | 1:30-2:50 🚩[Project proposal presentations](/presenting%20your%20ideas.md) <br> 2:50-3:00 ☕ Break <br> 3:00-4:20 🔈 Value Proposition Canvas, Dr. Claudia Smith (Uvic)                                                                                                                                                                                                                                                |
 |   4 | 2 Feb, 2024   | 1:30-3:00 🔈 Lecture, Dr. Margaret-Anne Storey <br>3:00-3:20 ☕ Break <br> 3:20-4:00 🔈 Rob Bennett (VIATEC), Tales of a Technical CEO.                                                                                                                      | 
-| 5 | 9 Feb, 2024   | 1:30-2:30 🔈 Perspectives on Entrepreneurship, Steven Myhill-Jones (Chairman and CEO, Daily Journal Corporation <br> 2:30-3:00 ☕ Break <br>  3:00-4:20 🔈 Time to work on Group Projects and Meet with Course Staff                                                                                                                                                                                | 
-|   6 | 16 Feb, 2024  | 1:30-4:20 🚩 [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  Project 1 and Mentors' Feedback <br> 2:00-2:25  👥 Project 2 and Mentors' Feedback <br> 2:25-2:50  👥  Project 3 and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  Project 4 and Mentors' Feedback <br> 3:25-3:50 👥  Project 5 and Mentors' Feedback <br> 3:25-4:15  👥  Project 6 and Mentors' Feedback <br>                           |
+| 5 | 9 Feb, 2024   | 1:30-2:30 🔈 Perspectives on Entrepreneurship, Steven Myhill-Jones (Chairman and CEO, Daily Journal Corporation) <br> 2:30-3:00 ☕ Break <br>  3:00-4:20 🔈 Time to work on Group Projects and Meet with Course Staff                                                                                                                                                                                | 
+|   6 | 16 Feb, 2024  | 1:30-4:20 🚩 [Milestone 1 presentation](/milestone%201%20-%20proof%20of%20concept.md) - Proof Of Concept <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  TBC (Group 6) and Mentors' Feedback <br> 2:00-2:25  👥 UVIC HUB (Group 5) and Mentors' Feedback <br> 2:25-2:50  👥  PrintLink3d (Group 4) and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  NutriDine (Group 3) and Mentors' Feedback <br> 3:25-3:50 👥  RestauWants (Group 2) and Mentors' Feedback <br> 3:25-4:15  👥  TBC (Group 1) and Mentors' Feedback <br>                           |
 |   7 | 23 Feb, 2024 | ⚠️ Reading Break - No Course Meeting                                                                                                                                                                               |
 |   8 | 1 Mar, 2024  | 1:30-1:45 Welcome and Panel setup <br> 1:45-3:15 🔈 Panel with Startup founders: <br> Nicole Smith, Founder & CEO Flytographer <br> Juan Orrego, Founder & CEO, Cuboh <br>  Eric Jordan, CEO Codename Entertainment <br> 3:15-3:30  ☕ Wrap up the conversation with Panelists + Break <br>3:30-4:20 👥 Group Work + Open space to talk with Teaching Team |
 |   9 | 8 Mar, 2024 | 🚩 [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate  <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  Project 1 and Mentors' Feedback <br> 2:00-2:25  👥 Project 2 and Mentors' Feedback <br> 2:25-2:50  👥  Project 3 and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  Project 4 and Mentors' Feedback <br> 3:25-3:50 👥  Project 5 and Mentors' Feedback <br> 3:25-4:15  👥  Project 6 and Mentors' Feedback <br> |                                                                                                      
@@ -76,12 +76,12 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 
 | Project Name | Team Members | Tagline | Project Link |
 | ------------ | -------------- | -------------- | -------------- |
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
-| TBD | TBD | TBD | TBD |
+| TBC (Group 1) | Connie; Ashwin; Aarman; Angad; | TBD | TBD |
+| RestauWants (Group 2) | Rebeca; Cam; Callum; Devin; Norman; Nick; | TBD | https://github.com/restauwants/restauwants |
+| NutriDine (Group 3) | Mehrad; Salam; Abraham; John M; | TBD | https://github.com/SENG480a-NutriDine |
+| PrintLink3d (Group 4) | James; Dylan; Matt; Joey; Daniel; Jasper; | TBD | TBD |
+| UVIC HUB (Group 5) | Bipasa; Levi; Oliver; Rahul; | TBD | TBD |
+| TBC (Group 6) | Julia; Jon; Jenny; Preet; Maddie; | TBD | TBD |
 <br>
 
 **Office Hour:** By appointment and Thursday 1:00pm-2:30pm ECS 564 (please message on Slack or send [email](mailto:startup.programming@gmail.com) to set an alternative meeting time) 
