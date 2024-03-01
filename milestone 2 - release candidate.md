@@ -67,8 +67,8 @@ A further breakdown of how the final score will be computed:
   - 2 for Product Page
 - Presentation = 21 points
   - 10 for Demonstration
-  - 4 for Feedback you have received from your (potential) users / customers
-  - 4 for Presentation (Style, timing, engagement, etc.)
+  - 5 for Feedback you have received from your (potential) users / customers
+  - 3 for Presentation (Style, timing, engagement, etc.)
   - 1 for Features and Roadmap
   - 1 for Group Reflection
   - 1 for Q&A
