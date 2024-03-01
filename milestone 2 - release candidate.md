@@ -15,7 +15,8 @@ Prepare a **10-minute presentation**:
 - [2-3 minutes] Continue with a short presentation of:
   - [1-1.5 minutes] Your feature list (what is done? which features are expected?) and your road map (what to expect in the future milestones?)
   - [1-1.5 minutes] Your progress and group reflection on what you have learned (which are the main challenges? why?)
-- Note the above order can vary at your discretion and the timing is also a suggestion but stay between 8 and 10 mins.  
+- Note the above order can vary at your discretion and the timing is also a suggestion but stay between 8 and 10 mins.
+- Please refer to some [advice](https://docs.google.com/document/d/1cMzPrOcbqANd6yvnU-XSKXaQuUQeceXX1NE1YEERk8Q/edit?usp=sharing) (prepared by Alessandra) for your presentation following milestone 1.  
 
 The project's presentation order will be decided on the presentation day (the same approach used for Milestone 1 presentations).
 
