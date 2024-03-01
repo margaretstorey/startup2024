@@ -1,5 +1,5 @@
 
-# Milestone 2 - Release Candidate (draft check back later)
+# Milestone 2 - Release Candidate 
 
 For the second milestone (due on Friday, 08/03/2024) you are required to show progress based on the feedback you've received from the mentors about Milestone 1.
 
@@ -15,6 +15,7 @@ Prepare a **10-minute presentation**:
 - [2-3 minutes] Continue with a short presentation of:
   - [1-1.5 minutes] Your feature list (what is done? which features are expected?) and your road map (what to expect in the future milestones?)
   - [1-1.5 minutes] Your progress and group reflection on what you have learned (which are the main challenges? why?)
+  - Note the above order can vary at your discretion and the timing is also a suggestion but stay between 8 and 10 mins.  
 
 The project's presentation order will be decided on the presentation day (the same approach used for Milestone 1 presentations).
 
