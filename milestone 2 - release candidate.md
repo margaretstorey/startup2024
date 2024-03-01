@@ -35,6 +35,10 @@ You are required to continue working on your GitHub repository and product page.
 - Present a clear product page considering a potential final user (e.g., include screenshots of how they will be using your application).
 - Please read [this document carefully](https://docs.google.com/document/d/1xppHNvDtQkChSqaZQI7FCG5J9GSH-iyi/edit?usp=sharing&ouid=100275977608446609845&rtpof=true&sd=true) (additional details on project documentation and the teaching team expectations).
 
+### Customer/user feedback
+
+As part of your presentation, and with details in your GitHub site, please provide details on the customer/user feedback you received, and how you went about getting this feedback. 
+
 
 ### Some general advice
 
@@ -63,7 +67,7 @@ A further breakdown of how the final score will be computed:
   - 2 for Product Page
 - Presentation = 21 points
   - 10 for Demonstration
-  - 4 for Feedback users / customers
+  - 4 for Feedback you have received from your (potential) users / customers
   - 4 for Presentation (Style, timing, engagement, etc.)
   - 1 for Features and Roadmap
   - 1 for Group Reflection
