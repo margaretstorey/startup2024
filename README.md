@@ -35,7 +35,7 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 |  11 | 22 Mar, 2024 | 1:30-2:10 🔈 Intellectual Property, Aislinn Sirk (UVic) <br> 2:10- 3:00 🔈 Coast Capital Innovation, Jerome Etwaroo (UVic) and Rob Bennett (Viatec) <br> 3:00-3:10 Break <br> 3:10-4:20 👥 Group meetings with Course Staff (and time to work on projects) |
 |  12 | 29 Mar, 2024 |  ⚠️ No Course Meeting, Good Friday   |
 |  13 | 5 Apr, 2024  | 🚩 [Milesone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  Project 1 and Mentors' Feedback <br> 2:00-2:25  👥 Project 2 and Mentors' Feedback <br> 2:25-2:50  👥  Project 3 and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  Project 4 and Mentors' Feedback <br> 3:25-3:50 👥  Project 5 and Mentors' Feedback <br> 3:50-4:15  👥  Project 6 and Mentors' Feedback <br> |
-|     | 11 Apr, 2024 | 🏁 [Final submsion](/final%20submission.md) *(submission by GitHub and Brightspace)* <br> No Course Meeting |                       
+|     | 12 Apr, 2024 | 🏁 [Final submsion](/final%20submission.md) *(submission by GitHub and Brightspace)* <br> No Course Meeting |                       
 
 <a name="mentoring-staff"></a>
 #### Mentoring Staff
