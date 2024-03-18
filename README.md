@@ -32,14 +32,14 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 |   8 | 1 Mar, 2024  | 1:30-1:45 Welcome and Panel setup <br> 1:45-3:15 🔈 Panel with Startup founders: <br> Nicole Smith, Founder & CEO Flytographer <br> Juan Orrego, Founder & CEO, Cuboh <br>  Eric Jordan, CEO Codename Entertainment <br> 3:15-3:30  ☕ Wrap up the conversation with Panelists + Break <br>3:30-4:20 👥 Group Work + Open space to talk with Teaching Team |
 |   9 | 8 Mar, 2024 | 🚩 [Milestone 2 presentation](/milestone%202%20-%20release%20candidate.md) - Release Candidate  <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  ParkEase (Group 1) + Q&A and Mentors' Feedback <br> 2:00-2:25  👥 NutriDine (Group 3) + Q&A and Mentors' Feedback <br> 2:25-2:50  👥  RestauWants (Group 2) + Q&A and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  Artisway (Group 6) + Q&A and Mentors' Feedback <br> 3:25-3:50 👥  PrintLink3d (Group 4) + Q&A and Mentors' Feedback <br> 3:50-4:15  👥  UHub (Group 5) + Q&A and Mentors' Feedback <br> |                                                                                                      
 |  10 | 15 Mar, 2024 | Founder Story, David Yarish, VP of Mobile Solutions and Co-Founder of Tutela Technologies Founder Story, Nick Addison, Cofounder and CTO, Truss <br> Time to work on projects and meetings with mentors (as needed)  |                                            
-|  11 | 22 Mar, 2024 | 1:30-2:10 🔈 Intellectual Property, Aislinn Sirk (UVic) <br> 2:10- 3:00 🔈 Coast Capital Innovation, Jerome Etwaroo (UVic) and Rob Bennett (Viatec) <br> 3:00-3:10 Break <br> 3:10-4:20 👥 Group meetings with Course Staff (and time to work on projects) |
+|  11 | 22 Mar, 2024 | 1:30-2:10 🔈 Intellectual Property, Aislinn Sirk (UVic) <br> 2:10- 3:00 🔈 Innovation Landscape: Jerome Etwaroo (UVic's Coast Capital Innovation Centre) and Rob Bennett (VIATEC) <br> 3:00-3:10 Break <br> 3:10-4:20 👥 Group meetings with Course Staff (and time to work on projects) |
 |  12 | 29 Mar, 2024 |  ⚠️ No Course Meeting, Good Friday   |
 |  13 | 5 Apr, 2024  | 🚩 [Milesone 3 presentation](/milestone%203%20-%20public%20beta.md) - Public live BETA <br> 1:30-1:35 Welcome and Presentations setup <br> 1:35-2:00  👥  Project 1 and Mentors' Feedback <br> 2:00-2:25  👥 Project 2 and Mentors' Feedback <br> 2:25-2:50  👥  Project 3 and Mentors' Feedback <br> 2:50-3:00 ☕ Break <br> 3:00-3:25  👥  Project 4 and Mentors' Feedback <br> 3:25-3:50 👥  Project 5 and Mentors' Feedback <br> 3:50-4:15  👥  Project 6 and Mentors' Feedback <br> |
 |     | 12 Apr, 2024 | 🏁 [Final submsion](/final%20submission.md) *(submission by GitHub and Brightspace)* <br> No Course Meeting |                       
 
 <a name="mentoring-staff"></a>
 #### Mentoring Staff
-- [Rob Bennett](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca), COO and Program Director, ViaTec
+- [Rob Bennett](https://www.linkedin.com/in/robebennett/?originalSubdomain=ca), COO and Program Director, VIATEC
 - [Sam Mod](https://www.linkedin.com/in/samarthmod/?originalSubdomain=ca), CEO and Co-Founder, Freshworks Studio
 - [Brandon Wright](https://www.linkedin.com/in/coastalbrandon/?originalSubdomain=ca), Founder and CEO, BRNKL
 - [Humaira Ahmed](https://www.linkedin.com/in/humaira-ahmed-besthuman/), Founder and CEO, Best Human (formerly Locelle)
@@ -56,7 +56,7 @@ We will meet at [MAC](https://www.uvic.ca/search/maps-buildings/buildings/maclau
 - [Aislinn Sirk](https://www.linkedin.com/in/aislinn-sirk-1728b119), Research Partnerships and Innovation Manager, UVic
 - [Matthew Smith](https://www.linkedin.com/in/matthew-smith250/), CEO & Co-Founder at Truss
 - [Nicole Smith](https://www.flytographer.com/), Founder and CEO, Flytographer
-- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/), VP of Mobile Solutions and Co-Founder of Tutela Technologies
+- [David Yarish](https://www.linkedin.com/in/david-yarish-6a055614/), VP of Mobile Solutions and Co-Founder of Tutela Technologies (now OpenSignal)
 
 **Alumni Mentors and Presenters [from prior UVic Startup courses](https://github.com/margaretstorey/startup2024/tree/main/past%20semesters):**
 - [Alexey Zagalsky](http://alexeyza.com/) (Founder of the course at UVic and Tel Aviv!)
