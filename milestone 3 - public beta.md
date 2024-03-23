@@ -1,8 +1,8 @@
-# Milestone 3 - Final Presentation (Public Beta) (draft - check back later)
+# Milestone 3 - Final Presentation (Public Beta) 
 
-Due April 5, 2024.  Location may be changed.
+Due April 5, 2024. Note:  Location may be changed.
   
-In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A and questions by mentors, guests and other students.  At 5pm, we will have a small party to celebrate your accomplishments. 
+In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A and questions by mentors, guests and other students.  At around 4:30pm, we will have a small informal party to celebrate your accomplishments. 
 
 We remind you that for this third milestone you are required to provide a fully functioning project, that will be evaluated by the mentoring staff. You will get valuable feedback regarding the expected final project configuration and scope.  **By the third milestone you should have completed your product** (except for some minor bugs which you may fix until the [Final Submission](/final%20submission.md)). 
 
@@ -17,8 +17,8 @@ Please include in your presentation (max: 10 minutes):
 
 Some advice:
 
-- Aim your **pitch** at a "new and general audience".  See below for resources on how to prepare an effective and compelling  pitch.  
-- Prepare an appealing **demo**! You only have a short time for the demonstration, so start with your key features and give an overview of what the app is about for guests who will be there for the first time.  If you are demonstrating social features or any other features that require prior preparations - prepare them in advance! (e.g. creating social networks of several users). 
+- Aim your **pitch** at a "new and general audience".  See below for resources on how to prepare an effective and compelling  pitch.  We may have some new guests attend. 
+- Prepare an appealing **demo**! You only have a short time for the demonstration, so start with your key features and give an overview of what the app is about for guests who will be there for the first time.  If you are demonstrating social features or any other features that require prior preparations - prepare them in advance! (e.g. creating social networks of several users).  Do a live demo but have a video as backup on your GitHub site. 
 - Please remember to keep your **documents** up to date on GitHub. 
 
 How to "pitch" resources: 
@@ -40,11 +40,11 @@ How to "pitch" resources:
 7. Gave a good presentation (simple, clear, focused, time-framed, sincere).
 8. Kept documentation up to date
 9. Summarized insights on user testing 
-10. Bonus marks will be awarded for teams that include a plan how to monetize their product. 
+10. Tell us how you plan to monetize their product. 
 
 **Important note:** This is not the final submission of your project. Please see details on the [Final Submission](/final%20submission.md) page.
 
-If you have any questions or comments please do not wait for the milestone meeting, please contact the course staff us on Slack.
+If you have any questions or comments please do not wait for the milestone meeting, please contact the course staff on Slack.
 
 Good luck!  
 
