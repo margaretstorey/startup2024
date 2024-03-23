@@ -1,6 +1,6 @@
-# Milestone 3 - Final Presentation (Public Beta) 
+# Milestone 3 - Final Presentation (Public Beta) (draft check back soon)
 
-Due April 5, 2024. Note:  Location may be changed.
+Due April 5, 2024. Note:  
   
 In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A and questions by mentors, guests and other students.  At around 4:30pm, we will have a small informal party to celebrate your accomplishments. 
 
