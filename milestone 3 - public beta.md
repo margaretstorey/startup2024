@@ -1,16 +1,16 @@
 # Milestone 3 - Final Presentation (Public Beta)
 
-Due April 5, 2024. Note:  
+Due April 5, 2024.  
   
 In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A with mentors, guests and other students.  At around 4:30pm, we will have a small informal party to celebrate your accomplishments. 
 
 We remind you that for this third milestone you are required to provide a fully functioning project, that will be evaluated by the mentoring staff. You will get valuable feedback regarding the expected final project configuration and scope.  **By the third milestone you should have completed your product** (except for some minor bugs which you may fix until the [Final Submission](/final%20submission.md)). 
 
-Please send us the presentation by email beforehand. As we may have additional guests that did not attend your previous presentations, **make sure your presentation is self contained**.  
+Please send us the presentation by Slack beforehand. As we may have additional guests that did not attend your previous presentations, **make sure your presentation is self contained**.  
 
 Please include in your presentation (max: 10 minutes):
 
-- **Pitch**:  Product overview and motivation (Maximum: 90 seconds).
+- **Pitch**:  Product overview and motivation - please present it live but also submit a video of the pitch before the class. (Maximum: 90 seconds).
 - **Demo**: Show your product from the perspective of your personas that show the main scenarios and features (approx. 4-5 mins)
 - **User feedback**: Share the insights you have gained by testing your product with real users/customers (approx. 2-3 mins)
 - **Next steps**: Tell us what you plan to do before the end of term and after the course. *Note: Bonus marks if you include a description of how you will monetize your product!* (approx. 1-2 mins)
@@ -56,10 +56,10 @@ Presentation [22 points]
 [8] Demo
 [5] Feedback users / customers
 [4] Presentation (Style, timing, engagement, etc.)
-[1] Pitch
+[2] Pitch
 [1] Next Steps (final report)
 [1] Q&A 
-[2] Monetization plans 
+[1] Monetization plans 
 
 Good luck!  
 
