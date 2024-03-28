@@ -1,8 +1,8 @@
-# Milestone 3 - Final Presentation (Public Beta) (draft check back soon)
+# Milestone 3 - Final Presentation (Public Beta)
 
 Due April 5, 2024. Note:  
   
-In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A and questions by mentors, guests and other students.  At around 4:30pm, we will have a small informal party to celebrate your accomplishments. 
+In this meeting, you'll have the opportunity to present the beta version of your project and share your experience with each other, the mentors as well as additional guests! Each team will have **10 minutes** followed by Q&A with mentors, guests and other students.  At around 4:30pm, we will have a small informal party to celebrate your accomplishments. 
 
 We remind you that for this third milestone you are required to provide a fully functioning project, that will be evaluated by the mentoring staff. You will get valuable feedback regarding the expected final project configuration and scope.  **By the third milestone you should have completed your product** (except for some minor bugs which you may fix until the [Final Submission](/final%20submission.md)). 
 
@@ -22,7 +22,7 @@ Some advice:
 - Please remember to keep your **documents** up to date on GitHub. 
 
 How to "pitch" resources: 
--  You can do this without a deck or use "pitch deck". Staying within time is critical. But be clear: who is your pitch aimed at? An investor, a customer? 
+-  You can do this without a deck or you can use a "pitch deck". Staying within time is critical. But be clear: who is your pitch aimed at? An investor, a customer? 
 -  [How to build a great pitch](https://learn.marsdd.com/article/how-to-build-a-great-pitch/) 
 - [How to pitch your Startup](https://www.youtube.com/watch?v=17XZGUX_9iM) Note this is also aimed at investors. 
 - [StartupFest pitch competition winners](https://www.youtube.com/watch?v=X1M2LcL5Oo4) This also shows questions that are asked! 
@@ -45,6 +45,21 @@ How to "pitch" resources:
 **Important note:** This is not the final submission of your project. Please see details on the [Final Submission](/final%20submission.md) page.
 
 If you have any questions or comments please do not wait for the milestone meeting, please contact the course staff on Slack.
+
+The following is the grading scheme we will use: 
+
+Docs/GitHub [3 points]
+[1] Project Hosting
+[2] Product Page
+
+Presentation [22 points]
+[8] Demo
+[5] Feedback users / customers
+[4] Presentation (Style, timing, engagement, etc.)
+[1] Pitch
+[1] Next Steps (final report)
+[1] Q&A 
+[2] Monetization plans 
 
 Good luck!  
 
