@@ -13,7 +13,7 @@ Please include in your presentation (max: 10 minutes):
 - **Pitch**:  Product overview and motivation - please present it live but also submit a video of the pitch before the class. (Maximum: 90 seconds).
 - **Demo**: Show your product from the perspective of your personas that show the main scenarios and features (approx. 4-5 mins)
 - **User feedback**: Share the insights you have gained by testing your product with real users/customers (approx. 2-3 mins)
-- **Next steps**: Tell us what you plan to do before the end of term and after the course. *Note: Bonus marks if you include a description of how you will monetize your product!* (approx. 1-2 mins)
+- **Next steps**: Tell us what you plan to do before the end of term and after the course. Please include a brief description of how you will monetize your product. (approx. 1-2 mins)
 
 Some advice:
 
