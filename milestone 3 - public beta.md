@@ -42,24 +42,24 @@ How to "pitch" resources:
 9. Summarized insights on user testing 
 10. Tell us how you plan to monetize their product. 
 
+The following is the grading scheme we will use: 
+
+- Docs/GitHub [3 points]
+  - [1] Project Hosting
+  - [2] Product Page
+
+- Presentation [22 points]
+  - [8] Demo
+  - [5] Feedback users / customers
+  - [4] Presentation (Style, timing, engagement, etc.)
+  - [2] Pitch
+  - [1] Next Steps (final report)
+  - [1] Q&A 
+  - [1] Monetization plans
+
 **Important note:** This is not the final submission of your project. Please see details on the [Final Submission](/final%20submission.md) page.
 
 If you have any questions or comments please do not wait for the milestone meeting, please contact the course staff on Slack.
-
-The following is the grading scheme we will use: 
-
-Docs/GitHub [3 points]
-[1] Project Hosting
-[2] Product Page
-
-Presentation [22 points]
-[8] Demo
-[5] Feedback users / customers
-[4] Presentation (Style, timing, engagement, etc.)
-[2] Pitch
-[1] Next Steps (final report)
-[1] Q&A 
-[1] Monetization plans 
 
 Good luck!  
 
