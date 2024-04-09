@@ -11,7 +11,7 @@ By the due date April 12, 2024 (23:59):
 - For your GitHub repository, make sure that all your **supplemental material** posted are in order and complete:
    - All **source code** is up to date.
    - All **documentation** is up to date including your product page, Wiki, project documentation, description of main use cases/personas/scenarios, architectural overview, main APIs/features, installation and usage instructions, the user study and user feedback, and any other relevant information.
--  Please write a max. one page **reflection by each member** of how you contributed to the project, specifying which tasks you did, what you **learned** and the **challenges** you faced. Please submit these to us via Brightspace individually (we will set up an assignment for this). 
+-  Please write a max. one page **reflection by each member** of how you contributed to the project, specifying which tasks you did, what you **learned** and the **challenges** you faced. In your reflection, please provide pointers to any data you have that can show how you contributed (or a log/journal/commit history etc). Please submit these to us via Brightspace individually (we have set up an assignment for this on Brightspace).  This is also due by Friday at midnight.
 
 After the due date, the course staff will examine your projects, test them and evaluate them, without you being present, so it is very important that everything is self explained.
 
